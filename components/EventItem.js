@@ -13,7 +13,6 @@ export default function EventItem(props) {
     month: "long",
     year: "numeric",
   });
-  console.log(props);
   const formatedAddress = location.replace(", ", "\n");
   const exploreLink = `/events/${id}`;
   return (
