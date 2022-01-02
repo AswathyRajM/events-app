@@ -1,6 +1,6 @@
 # Events App
 
-This is a full stack [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a full stack [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and MongoDB.
 
 # View Live
 https://nextjs-events-app-six.vercel.app/
